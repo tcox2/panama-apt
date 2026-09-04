@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 04 Sep 2026 22:42:01 +0000
+Label: Panama
+Origin: Panama
+Suite: stable
+MD5Sum:
+ e3113e0958115f7af604db466ccafd4e              906 main/binary-amd64/Packages
+ 87b0454ece37a92cd586f27df54cf436              603 main/binary-amd64/Packages.gz
+SHA1:
+ 566443843753693659658b1339e984f2c5d72a91              906 main/binary-amd64/Packages
+ df7f2725b45f54293c2c3b47486cc1acdd6d289c              603 main/binary-amd64/Packages.gz
+SHA256:
+ 1c6c61a1820218b42bdbb52480b3c5fda0b72d56c79c756e9d33c83ce407e492              906 main/binary-amd64/Packages
+ ae7edf18ce37b610d5f2cd2379e5c2fcf234323693438e07a7e246011255e33c              603 main/binary-amd64/Packages.gz
+SHA512:
+ a57c7bded7afcab7e9beec46f0984419e9f2280453ff5823603891a5347313830d1e57fa179a697c131f571075881e253e6c422eb803ff49317d25d10a72f114              906 main/binary-amd64/Packages
+ d840791b4900854803a50e691a1c31405a1fcc5ec6f1cbc3eeb0973aa792083d8ebb1ea120defe1eeb13fed160a2184d0da3545ef7ff697d0694a4ece4085c80              603 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEE2Lg03abWk53MKleaSlQSxo07/G0FAmqbSTkACgkQSlQSxo07
+/G06dwv/V603ExhHQRNgyg197HbW5SmLY3t6+/sRZzA4TJq6Cpoddj9cX/bwwipk
+Pkox5lwYb4d8kl08p4AcM/+OoSLMVJF8huyLYdp9nEzbEGPXTXbkDgJI2jEeGqvr
+rJgMuHKYSmdnqtfzmKEo6KXoJ+kjT1OK948x04cnNRbGp+ISFjpAHQWwSz9PBYYK
+OZnxeirGJM6T1xlM8xhymB7OKZAVBAsAw/RhWxOG2xypw7qFNLa5i1RzKwoS2l28
+g9n+mV/1UmNfENGPFKhJGOLnPwcA9xhbxtgoSH0004or/8tUobcZnI7TrhofjL8k
+BiBaGSEbAT5GQ2Cf87JUwFCht1syPvJRsGVwEiH77CxUHq7vw1fk8Nkt7VJtPK32
+Ajyy8ZEcirveQl00XPTsIvFcGmxyFmtZYhhFVSKlCryNS0+8VyWZMD2ZV32BNrWv
+WIZZ/yUTvkzObZBAyMwEFCGsipGWdJc4+btmBfWrLcTCQ+++19hAKJGBeUjJGV2G
+Q07ttkUa
+=CdKy
+-----END PGP SIGNATURE-----
