@@ -1,6 +1,6 @@
 # Panama APT Repository
 
-Public signed Debian packages for the standalone Panama Rust service.
+Public signed Debian packages for the standalone Panama Java service.
 Panama source remains in a separate private repository. This repository contains
 only built packages, signed APT metadata, the public signing key, and publishing
 configuration. No application credentials or private signing keys are included.
@@ -11,8 +11,9 @@ Signing key fingerprint:
 
 `D8B8 34DD A6D6 939D CC2A 579A 4A54 12C6 8D3B FC6D`
 
-Supported architecture: amd64. Packages are built on Ubuntu 24.04; APT enforces
-the actual library dependencies determined during packaging.
+The feed is indexed for amd64. Since 0.4.0, packages are architecture-independent
+(`all`) and require Java 21 or newer. GitHub Actions tests and builds the service
+on Java 21 and Ubuntu 24.04; APT enforces the Java runtime dependency.
 
 ## Installation
 
