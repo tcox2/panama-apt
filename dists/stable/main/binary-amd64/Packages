@@ -124,3 +124,21 @@ Description: qBittorrent inventory service backed by PostgreSQL
  Independent Rust service that inventories torrents and absolute file paths,
  retains torrent metadata in PostgreSQL, and logs to the system journal.
 
+Package: panama
+Architecture: amd64
+Version: 0.3.0-1+git8.1.a340de3e
+Priority: optional
+Section: net
+Maintainer: tcox2 <tcox2@users.noreply.github.com>
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), ca-certificates, systemd (>= 249), init-system-helpers (>= 1.56)
+Filename: pool/main/p/panama/panama_0.3.0-1+git8.1.a340de3e_amd64.deb
+Size: 2771332
+MD5sum: 3cbe555298e31d9778ce2e1f9aed9641
+SHA1: 8d81fb48c26fcaab9683c15ddd75fda774f30545
+SHA256: 739207deb06931c068fe3af2dc7ec5fa3e52df1d6d294228364c7b71585b8fbf
+SHA512: 62eac15f24937c45015c5b32010cda2f1c3a21f6e503910cc6bef104cd969a1f3442a571e69fd9e4c5574229dad60610441a4c37393022815e8433757e0ec696
+Homepage: https://github.com/tcox2/panama-apt
+Description: qBittorrent inventory service backed by PostgreSQL
+ Independent Rust service that inventories torrents and absolute file paths,
+ retains torrent metadata in PostgreSQL, and logs to the system journal.
+
