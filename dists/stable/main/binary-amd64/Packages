@@ -1260,6 +1260,24 @@ Description: qBittorrent inventory service backed by PostgreSQL
 
 Package: panama
 Architecture: all
+Version: 0.7.0-1+git147.1.aeadbf33
+Priority: optional
+Section: net
+Maintainer: tcox2 <tcox2@users.noreply.github.com>
+Depends: java-runtime-headless (>= 21) | java21-runtime-headless, ca-certificates, systemd (>= 249), init-system-helpers (>= 1.56), ffmpeg, adduser
+Filename: pool/main/p/panama/panama_0.7.0-1+git147.1.aeadbf33_all.deb
+Size: 8705918
+MD5sum: 8f0b0ff6218ecedf8ec8a4a674aec63a
+SHA1: 237b5584a7d11904039b9280c86040c41fec5b37
+SHA256: 8e2ad434f72ee184e3a070d2e8b0480a924b4c5748461e099caa106ac5d9c2f1
+SHA512: 6012c533d42f501a9bc2f257eb17c97bb9a4575dacf775196371282f3430dbb9a4afff0848893dd3db8f7348be97490fdccf52c9abbfd1095d332c1026c49efe
+Homepage: https://github.com/tcox2/panama-apt
+Description: qBittorrent inventory service backed by PostgreSQL
+ Independent Java service that inventories torrents and absolute file paths,
+ retains torrent metadata in PostgreSQL, and logs to the system journal.
+
+Package: panama
+Architecture: all
 Version: 0.7.0-1+git33.1.7b864eda
 Priority: optional
 Section: net
